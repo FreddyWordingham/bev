@@ -1,2 +1,3 @@
 # bev
-Beverly Clarke's Buisness Website
+
+Beverly Clarke's Business Website
